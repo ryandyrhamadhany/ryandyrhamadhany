@@ -1,4 +1,4 @@
-## Hi there 👋
+## i'm currently learning 👋
 
 <div align="center">
 
