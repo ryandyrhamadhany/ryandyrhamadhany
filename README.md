@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![My Know Languages](https://skillicons.dev/icons?i=java,spring,c,cpp)
+![My Know Languages](https://skillicons.dev/icons?i=java,spring,c,cpp,cs&theme=light)
 
 </div>
 
