@@ -6,7 +6,7 @@
 
 
 </div>
-// https://github.com/tandpfun/skill-icons?tab=readme-ov-file documentation
+<! --   https://github.com/tandpfun/skill-icons?tab=readme-ov-file documentation -->
 
 <!--
 **ryandyrhamadhany/ryandyrhamadhany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
