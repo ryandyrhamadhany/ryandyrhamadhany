@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![My Know Languages](https://skillicons.dev/icons?i=laravel,vue,vuetify,nodejs,express,mongodb)
+![My Know Languages](https://skillicons.dev/icons?i=java,spring,c,cpp)
 
 </div>
 
